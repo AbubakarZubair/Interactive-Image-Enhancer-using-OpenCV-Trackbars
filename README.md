@@ -9,7 +9,7 @@ This application allows users to dynamically adjust an image’s **brightness**,
 
 | Original Image | Enhanced Output |
 |:--------------|:----------------|
-| ![Original](sample_images/original.png) | ![Enhanced](sample_images/enhanced.png) |
+| ![Original](original.png) | ![Enhanced](enhanced.png) |
 
 
 
